@@ -9,7 +9,8 @@ Todos los archivos de diseño en Kicad se encuentran publicados junto a un códi
 
 # Fabricación
 
-Dentro de la carpeta `fab` encontrarás el archivo `Pico-Carrier-Fab.zip` que incluye los Gerber y archivos de perforación .drl todo listo para ordenar a tu fabricante de PCB favorito.
+Dentro de la carpeta `fab` encontrarás los archivos individuales Gerber y de perforación .drl 
+El archivo `Pico-Carrier-Fab.zip` incluye toda la carpeta `fab` con todo listo para ordenar a tu fabricante de PCB favorito.
 
 # Paso a paso
 
