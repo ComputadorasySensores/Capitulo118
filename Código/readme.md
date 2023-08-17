@@ -7,4 +7,4 @@ El programa de ejemplo `main.py` para ejecutar desde la Raspberry Pi Pico/W requ
 # Paso a paso
 
 La explicación completa la podrás ver en el siguiente video de Youtube:
-https://youtube.com/c/computadorasysensores
+https://youtu.be/Y6Xd9Z1UVGs
